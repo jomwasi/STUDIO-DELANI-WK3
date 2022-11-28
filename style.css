@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+html{
+    scroll-behavior: smooth;
+  }
+#home{
+  
+    background-image: url("background/h_img.jpg");
+  
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+  
+    background-position: center;
+    font-family: 'Gabriela', serif;
+  
+}
+  
+#services{
+  
+    background-image: url("background/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Gabriela', serif;
+}
+  
+#contact-us{
+  
+    background-image: url("background/c_image.jpg");
+  
+    background-repeat: no-repeat;
+  
+    background-size: cover;
+  
+    background-position: center;
+    font-family: 'Copse', serif;
+  
+}
+  
+.social{
+  
+    font-size: xx-small;
+  
+}
+  
+#submitButton{
+  
+    text-decoration: none;
+}
+  
+#sign-out{
+  
+    font-size: small;
+  
+    font-weight: bold;
+}
+
+#copyright{
+    font-size: xx-small;
+}
+  
+.paragraph{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
