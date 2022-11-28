@@ -7,7 +7,7 @@ $("document").ready(function(){
         }
     })
 
-    /* ADDS A FTOGGLE FUNCTION BETWEEN THE WWD IMAGES AND THE DESCRIPTION */
+    /* ADDS A TOGGLE FUNCTION BETWEEN THE WWD IMAGES AND THE DESCRIPTION */
    $(".kazi").click(function (e) {
 
         const clicked = e.target;
