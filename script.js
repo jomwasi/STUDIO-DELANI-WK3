@@ -7,7 +7,7 @@ $("document").ready(function(){
         }
     })
 
-    /* ADDS A TOGGLE FUNCTION BETWEEN THE WWD IMAGES AND THE DESCRIPTION */
+    /* adding toggle effect */
    $(".kazi").click(function (e) {
 
         const clicked = e.target;
