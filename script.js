@@ -8,7 +8,7 @@ $("document").ready(function(){
     })
 
     /* adding toggle effect */
-   $(".kazi").click(function (e) {
+   $(".job").click(function (e) {
 
         const clicked = e.target;
 
